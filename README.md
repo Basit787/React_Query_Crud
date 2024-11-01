@@ -13,12 +13,12 @@ pnpm dev
 # or
 bun dev
 ```
-
+Enter below command to start the inbuilt server
+Open another terminal and add below command 
 ```bash
 npm run server
 ```
 
-Enter above sommand to start the inbuilt server
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
